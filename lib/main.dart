@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('앱임'),
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.red,
           
           ),
         body: Text('dkssud'),
